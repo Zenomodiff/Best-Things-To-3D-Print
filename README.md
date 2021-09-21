@@ -1,6 +1,6 @@
 ### `THINGS TO 3D PRINT`
 
-All The Print Can Be Done In 75% Infill
+All The Print Need Be Done In 75% Infill
 
 + [XYZ 20mm Calibration Cube](https://www.thingiverse.com/thing:1278865)
 + [3DBenchy](https://www.thingiverse.com/thing:763622)
