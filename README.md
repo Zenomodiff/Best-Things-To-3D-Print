@@ -7,7 +7,7 @@ All The Print Need Be Done In Min 70% Infill
 + [USB SD and MicroSD holder](https://www.thingiverse.com/thing:2637487)
 +  [USB SD and MicroSD holder](https://www.thingiverse.com/thing:2637487)
 
-https://www.thingiverse.com/thing:376601
+
 
 
 
