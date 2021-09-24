@@ -7,7 +7,6 @@ All The Print Need Be Done In Min 70% Infill
 + [USB SD and MicroSD holder](https://www.thingiverse.com/thing:2637487)
 + [Low-Poly Pikachu](https://www.thingiverse.com/thing:376601)
 
-https://www.thingiverse.com/thing:3
-
+https://www.thingiverse.com/t
 
 
