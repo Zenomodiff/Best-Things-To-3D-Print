@@ -8,4 +8,4 @@ All The Print Need Be Done In Min 70% Infill
 + [Low-Poly Pikachu](https://www.thingiverse.com/thing:376601)
 + [Treefrog](https://www.thingiverse.com/thing:18479)
 + [Flower Vase](https://www.thingiverse.com/thing:)
-https://www.thi
+https://www.
