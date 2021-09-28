@@ -8,3 +8,5 @@ All The Print Need Be Done In Min 70% Infill
 + [Low-Poly Pikachu](https://www.thingiverse.com/thing:376601)
 + [Treefrog](https://www.thingiverse.com/thing:18479)
 + [Flexi Rex](https://www.thingiverse.com/thing:2738211)
+
+https://www.thingiverse.com/thing:1673030
