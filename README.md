@@ -10,7 +10,7 @@ All The Print Need Be Done In Min 70% Infill
 + [Flexi Rex](https://www.thingiverse.com/thing:2738211)
 + [Little Ghost](https://www.thingiverse.com/thing:4966110)
 + [Gear Bearing](https://www.thingiverse.com/thing:53451)
-+ [Gear Bearing](https://www.thingiverse.com/thing:922740)
++ [Raspberry Pi Case](https://www.thingiverse.com/thing:922740)
 
 
 
