@@ -14,5 +14,5 @@ All The Print Need Be Done In Min 70% Infill
 + [Fidget heart](https://www.thingiverse.com/thing:4948938)
 + [Caged Balls](https://www.thingiverse.com/thing:4969604)
 + [Front man mask (Squid Game)](https://www.thingiverse.com/thing:4971237)
-
++ [Front man mask (Squid Game)](https://www.thingiverse.com/thing:4971237)
 https://www.thingiverse.com/thing:215703
