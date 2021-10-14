@@ -23,5 +23,4 @@ All The Print Need Be Done In Min 70% Infill
 + [Halloween Deat](https://www.thingiverse.com/thing:4965101)
 dog and human
 
-
 4967921
