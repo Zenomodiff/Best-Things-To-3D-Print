@@ -22,5 +22,5 @@ All The Print Need Be Done In Min 70% Infill
 + [Halloween Death Whistle](https://www.thingiverse.com/thing:4965101)
 + [dog and human](https://www.thingiverse.com/thing:4967921)
 + [dog and human](https://www.thingiverse.com/thing:)
-https://www.thingiverse.com/thing:4982411
+https://www.thingiverse.com/thing:
 Geared smartphone holder
