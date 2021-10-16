@@ -23,4 +23,3 @@ All The Print Need Be Done In Min 70% Infill
 + [dog and human](https://www.thingiverse.com/thing:4967921)
 + [Geared smartphone holder](https://www.thingiverse.com/thing:4982411) 
 + [Nanoleaf Hexa Wandlampe](https://www.thingiverse.com/thing:4968180)
-
