@@ -26,4 +26,3 @@ All The Print Need Be Done In Min 70% Infill
 
 
 
-
