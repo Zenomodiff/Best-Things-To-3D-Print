@@ -25,4 +25,3 @@ All The Print Need Be Done In Min 70% Infill
 + [](https://www.thingiverse.com/thing:4968180)
 
 
-
