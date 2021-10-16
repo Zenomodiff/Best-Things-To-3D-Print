@@ -24,6 +24,6 @@ All The Print Need Be Done In Min 70% Infill
 + [Geared smartphone holder](https://www.thingiverse.com/thing:4982411) 
 + [Geared smartphone holder](https://www.thingiverse.com/thing:4968180)
 
-https://www.thingivers
+https://w
 
 Nanoleaf Hexa Wandlampe
